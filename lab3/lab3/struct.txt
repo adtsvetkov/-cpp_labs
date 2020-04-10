@@ -1,0 +1,30 @@
+MenuGo
+WinGo
+Pos 100 100
+Color 31 174 233
+WinEnd
+ButtonGo
+Pos 480 160
+Color 30 9 100
+Highlight 1 230 33
+Name PLAY
+ButtonEnd
+ButtonGo
+Pos 480 220
+Color 30 9 100
+Highlight 1 230 33
+Name SETTINGS
+ButtonEnd
+ButtonGo
+Pos 480 280
+Color 30 9 100
+Highlight 1 230 33
+Name ABOUT
+ButtonEnd
+ButtonGo
+Pos 480 340
+Color 30 9 100
+Highlight 1 230 33
+Name EXIT
+ButtonEnd
+MenuEnd
